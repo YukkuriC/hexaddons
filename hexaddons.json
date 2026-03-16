@@ -501,5 +501,25 @@
         "name": "Kneecore's Very Hex Addon",
         "modrinth_url": "https://modrinth.com/mod/kvha",
         "type": "addon"
+    },
+    {
+        "name": "Hexboard",
+        "modrinth_url": "https://modrinth.com/mod/hexboard",
+        "type": "addon"
+    },
+    {
+        "name": "Iotic Spellbooks",
+        "modrinth_url": "https://modrinth.com/mod/ioticspellbooks",
+        "type": "interop"
+    },
+    {
+        "name": "Hextra Patterns",
+        "modrinth_url": "https://modrinth.com/mod/hextra-patterns",
+        "type": "addon"
+    },
+    {
+        "name": "Hex Shadowing",
+        "modrinth_url": "https://modrinth.com/mod/hexshadowing",
+        "type": "addon"
     }
 ]
