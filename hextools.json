@@ -65,5 +65,10 @@
         "name": "HexCC",
         "description": "A C inspired language that compiles down to Hex",
         "link": "https://gitlab.com/eleksploded/hexcc/"
+    },
+    {
+        "name": "Soulglimmer Pigment Viewer",
+        "description": "A website allowing you to see what your own or someone else's soulglimmer pigment looks like",
+        "link": "https://pigment.hexxy.media/"
     }
 ]
