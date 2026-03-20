@@ -1,7 +1,7 @@
 body{
     --slatedark: #221b32;
     --slatemid: #564661;
-    --mediapink: rgb(254,203,230);
+    --mediapink: #fecbe6;
     background: var(--slatedark);
     font-family: Helvetica, sans-serif;
     color: var(--mediapink);
@@ -493,7 +493,20 @@ select:hover {
     margin-bottom: 0.5em;
 }
 
+#weblinks {
+    width: 50vw;
+    left: 25vw;
+    position: relative;
+    text-align: center;
+    margin-bottom: 2vw;
+}
+
 @media (width <= 81rem) {
+
+    #weblinks {
+        width: 90vw;
+        left: 5vw;
+    }
 
     .addonSectionGrid{
         left: 5vw;
@@ -508,7 +521,7 @@ select:hover {
     text-align: center;
     font-size: 1.5rem;
     margin-top: 5vw;
-    margin-bottom: 2vw;
+    margin-bottom: 1vw;
 }
 
 .samtext {
@@ -517,6 +530,12 @@ select:hover {
 
 #sourceLink{
     font-size: 1.5rem;
+}
+
+
+#weblinks img {
+    image-rendering: pixelated;
+    width: 176px;
 }
 
 /* 
