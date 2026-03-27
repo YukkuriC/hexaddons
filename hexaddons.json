@@ -521,5 +521,10 @@
         "name": "Hex Shadowing",
         "modrinth_url": "https://modrinth.com/mod/hexshadowing",
         "type": "addon"
-    }
+    },
+	{
+		"name": "Focalworks",
+		"modrinth_url": "https://modrinth.com/mod/focalworks",
+		"type": "addon"
+	}
 ]

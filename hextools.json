@@ -70,5 +70,10 @@
         "name": "Soulglimmer Pigment Viewer",
         "description": "A website allowing you to see what your own or someone else's soulglimmer pigment looks like",
         "link": "https://pigment.hexxy.media/"
+    },
+    {
+        "name": "ObsidianHex",
+        "description": "A WIP Obsidian vault containing some explanations on various hex techniques. Make issues for suggestions and prs for your own explanations.",
+        "link": "https://github.com/c-Caelum/ObsidianHex/tree/main"
     }
 ]
