@@ -527,5 +527,10 @@
         "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/hexautomata",
         "modrinth_url": "https://modrinth.com/mod/hexautomata",
         "type": "addon"
+    },
+    {
+      "name": "Focalworks",
+      "modrinth_url": "https://modrinth.com/mod/focalworks",
+      "type": "addon"
     }
 ]
