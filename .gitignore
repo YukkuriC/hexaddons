@@ -1,3 +1,5 @@
 .vscode
 *.psd
 *.ai
+
+.DS_Store

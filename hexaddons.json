@@ -532,5 +532,52 @@
       "name": "Focalworks",
       "modrinth_url": "https://modrinth.com/mod/focalworks",
       "type": "addon"
+    },
+    {
+        "name": "IronCasting",
+        "modrinth_url": "https://modrinth.com/mod/ironcasting",
+        "type": "interop"
+    },
+    {
+        "name": "Quadcasting",
+        "modrinth_url": "https://modrinth.com/mod/quadcasting",
+        "type": "addon"
+    },
+    {
+        "name": "Stack Patterns",
+        "modrinth_url": "https://modrinth.com/mod/stackpatterns",
+        "type": "addon"
+    },
+    {
+        "name": "Hex on command",
+        "modrinth_url": "https://modrinth.com/mod/hexoncommand",
+        "type": "addon"
+    },
+    {
+        "name": "Pointless Machine",
+        "modrinth_url": "https://modrinth.com/mod/pointless-machine",
+        "type": "addon"
+    },
+    {
+        "name": "HexVidia",
+        "modrinth_url": "https://modrinth.com/mod/hexvidia",
+        "type": "addon"
+    },
+    {
+        "name": "HexNBT",
+        "modrinth_url": "https://modrinth.com/mod/hexnbt",
+        "type": "addon"
+    },
+    {
+        "name": "HexxyPlanes",
+        "modrinth_url": "https://modrinth.com/mod/hexxyplanes",
+        "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/hexxyplanes",
+        "type": "addon"
+    },
+    {
+        "name": "Hexstages",
+        "modrinth_url": "https://modrinth.com/mod/hexstages",
+        "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/hexstages",
+        "type": "interop"
     }
 ]
